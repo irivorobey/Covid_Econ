@@ -1,0 +1,74 @@
+\begin{thebibliography}{10}
+
+\bibitem{RassShan}
+Россоха~А.~В. и Шананин~А. А.
+\newblock Обратные задачи анализа
+  межотраслевых балансов.
+\newblock {\em Матем. моделировани}, 33(3):39 -- 58, 2021.
+
+\bibitem{PonomEvdok}
+Пономарев~Ю.~Ю. и Евдокимов~Д. Ю.
+\newblock Построение усеченных таблиц
+  <<Затраты-Выпуск>> для регионов России с
+  использованием коэффициентов
+  локализации.
+\newblock {\em Проблемы прогнозирования}, (6), 2021.
+
+\bibitem{Leontief}
+Леонтьев~В. В.
+\newblock {\em Экономические эссе}.
+\newblock Политиздат, 1990.
+
+\bibitem{AkimovaCourse}
+Акимова~Е. Д.
+\newblock Курсовая работа на тему
+  <<Использование межотраслевого баланса
+  для решения современных проблем
+  межотраслевых связей>>.
+\newblock 2022.
+
+\bibitem{RosstatZV}
+Таблицы <<затраты-выпуск>>.
+\newblock \url{https://rosstat.gov.ru/statistics/accounts}, 2016.
+\newblock Актуально на 20.11.2022.
+
+\bibitem{RosstatTRI}
+Таблицы ресурсов и использования товаров и
+  услуг Российской Федерации.
+\newblock \url{https://rosstat.gov.ru/storage/mediabank/tri-2019.xlsx}, 2019.
+\newblock Актуально на 20.11.2022.
+
+\bibitem{RegionStat}
+Регионы России. Социально-экономические
+  показатели.
+\newblock \url{https://gks.ru/bgd/regl/b21\_14p/Main.htm}, 2021.
+\newblock Актуально на 29.11.2022.
+
+\bibitem{OKPD}
+Общероссийские экономические
+  классификаторы, закрепленные за
+  минэкономразвития России.
+\newblock
+  \url{https://www.economy.gov.ru/material/departments/d18/obshcherossiyskie\_klassifikatory\_zakreplennye\_za\_minekonomrazvitiya\_rossii/},
+  2021.
+\newblock Актуально на 29.11.2022.
+
+\bibitem{Bonfiglio}
+Bonfiglio A.
+\newblock On the parameterization of techniques for representing regional
+  economic structures.
+\newblock {\em Economic System Research}, 212:115--127, 2009.
+
+\bibitem{Flegg}
+A.~T. Flegg, C.~D. Webber, and M.~V. Elliott.
+\newblock On the appropriate use of location quotients in generating regional
+  input–output tables.
+\newblock {\em Regional Studies}, 29(6):547--561, 1995.
+
+\bibitem{Kronenberg}
+Kronenberg T.
+\newblock Regional input-output models and the treatment of imports in the
+  {E}uropean {S}ystem of {A}ccounts ({E}{S}{A}).
+\newblock {\em Jahrbuch für Regionalwissenschaft}, 32:175--191, 2012.
+
+\end{thebibliography}
